@@ -1,3 +1,5 @@
+# By Cesar Casas
+
 # Denim Social Javascript Interview
 
 ## _DIRECTIONS_
@@ -6,7 +8,7 @@
 - [ ] `git clone https://github.com/denimsocial/denim-js-interview.git`
 
 ### Install locally
-- [ ] `npm install` 
+- [ ] `npm install`
 - [ ] `npm run hello` (should output `Hello, World`)
 
 ### Complete the three functions in `index.js` as directed in the `//comments`
